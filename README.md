@@ -1,5 +1,7 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there!+👋;I'm+JOSE+THOMAS)](https://git.io/typing-svg)
 
+## ABOUT ME
+
 ##### 🔭 I’m currently working as a frontend developer
 <!--
 **josethomas45/josethomas45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
