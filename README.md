@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+🔭 I’m currently working as a frontend developer
 <!--
 **josethomas45/josethomas45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
