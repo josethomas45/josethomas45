@@ -2,7 +2,7 @@
 
 ## ABOUT ME
 
-##### 🔭 I’m currently working as a frontend developer
+#### I'm a B.Tech Computer Science student passionate about programming and cloud computing. Currently, I'm focusing on honing my skills in C programming and Python.
 <!--
 **josethomas45/josethomas45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
