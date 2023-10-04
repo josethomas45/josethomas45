@@ -2,7 +2,12 @@
 
 ## ABOUT ME
 
-#### I'm a B.Tech Computer Science student passionate about programming and cloud computing. Currently, I'm focusing on honing my skills in C programming and Python.
+#### I'm a B.Tech Computer Science student passionate about programming and cloud computing. Currently, I'm focusing on honing my skills in web development and game development.
+
+- 🌱 I’m currently learning C programming and Java.
+- 🔭 I’m interested in Web designing, Esports and Ethical hacking.
+- 📚 I like to stay updated in this field.
+- 💬 Feel free to reach out to me for discussions on programming, tech trends, or anything else!
 <!--
 **josethomas45/josethomas45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
