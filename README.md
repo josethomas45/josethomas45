@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning C programming and Java.
 - 🔭 I’m interested in Web designing, Esports and Ethical hacking.
 - 📚 I like to stay updated in this field.
-- 💬 Feel free to reach out to me for discussions on programming, tech trends, or anything else!
 <!--
 **josethomas45/josethomas45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
