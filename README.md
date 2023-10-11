@@ -5,7 +5,7 @@
 #### I'm a B.Tech Computer Science student passionate about programming and cloud computing. Currently, I'm focusing to improve my skills in web development and game development.
 
 - 🌱 I’m currently learning C programming and Java.
-- 📫 Currently working to make others aware of game development and esports.
+- 📫 Right now working to make others aware of game development and esports.
 - 🔭 I’m interested in Web designing, Esports and Ethical hacking.
 - 📚 I like to stay updated in this field.
 <!--
