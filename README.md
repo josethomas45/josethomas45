@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there!+👋;I'm+JOSE+THOMAS)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+👋;I'm+JOSE+THOMAS)](https://git.io/typing-svg)
 
 ## ABOUT ME
 
@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning C programming and Java.
 - 📫 Right now working to make others aware of game development and esports.
-- 🔭 I’m interested in Web designing, Esports and Ethical hacking.
+- 🔭 I’m interested in Web designing, Game development ,Ethical hacking and esports.
 - 📚 I like to stay updated in this field.
 <!--
 **josethomas45/josethomas45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
