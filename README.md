@@ -10,7 +10,7 @@
 - 🔭 I’m interested in Web designing, Game development ,Ethical hacking and esports.
 - 📚 I like to stay updated in this field.
 
-- <img src="https://tryhackme-badges.s3.amazonaws.com/josethomas45.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/josethomas45.png" alt="TryHackMe">
 
 
 <div align="left">
