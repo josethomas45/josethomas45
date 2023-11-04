@@ -4,12 +4,14 @@
 
 #### I'm a B.Tech Computer Science student passionate about programming and cloud computing. Currently, I'm focusing to improve my skills in web development and game development.
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/josethomas45.png" alt="TryHackMe">
 
 - 🌱 I’m currently learning C programming and Java.
 - 📫 Right now working to make others aware of game development and esports.
 - 🔭 I’m interested in Web designing, Game development ,Ethical hacking and esports.
 - 📚 I like to stay updated in this field.
+
+- <img src="https://tryhackme-badges.s3.amazonaws.com/josethomas45.png" alt="TryHackMe">
+
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josethomas45&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&order=2" height="150" alt="languages graph"  />
