@@ -1,6 +1,5 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+👋;I'm+JOSE+THOMAS)](https://git.io/typing-svg)
 
-<iframe src="https://giphy.com/embed/bAQH7WXKqtIBrPs7sR" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-sleep-code-coding-bAQH7WXKqtIBrPs7sR">via GIPHY</a></p>
 
 ## ABOUT ME
 
@@ -20,3 +19,12 @@
   <img src="https://streak-stats.demolab.com?user=josethomas45&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5&date_format=j M[ Y]&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=josethomas45&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
 </div>
+
+###
+<br>
+<hr>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/manuemmanuel/count.svg?"  />
+</div>
+
+###
