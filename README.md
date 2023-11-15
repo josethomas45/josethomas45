@@ -1,5 +1,3 @@
-<meta http-equiv="Content-Security-Policy" content="script-src 'self' https://tryhackme.com; ">
-
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+👋;I'm+JOSE+THOMAS)](https://git.io/typing-svg)
 
@@ -15,7 +13,7 @@
 - 🔭 I’m interested in Web designing, Game development ,Ethical hacking and esports.
 - 📚 I like to stay updated in this field.
 
-<script src="https://tryhackme.com/badge/2441140"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/josethomas45.png" alt="TryHackMe">
 
 
 <div align="left">
