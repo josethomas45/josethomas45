@@ -1,3 +1,6 @@
+<meta http-equiv="Content-Security-Policy" content="script-src 'self' https://tryhackme.com; ">
+
+
 # [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+👋;I'm+JOSE+THOMAS)](https://git.io/typing-svg)
 
 <img title="a title" alt="Alt text" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
