@@ -1,4 +1,4 @@
-
+mas45
 # [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+👋;I'm+JOSE+THOMAS)](https://git.io/typing-svg)
 
 <img title="a title" alt="Alt text" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
@@ -26,7 +26,7 @@
 <br>
 <hr>
 <div align="center">
-  <img src="https://profile-counter.glitch.me/manuemmanuel/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/josethomas45/count.svg?"  />
 </div>
 
 ###
