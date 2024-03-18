@@ -3,6 +3,8 @@
 
 <p align="center"><img title="a title" alt="Alt text" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif"></p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
 ## ABOUT ME
 
 #### I'm a B.Tech Computer Science student passionate about programming and cloud computing. Currently, I'm focusing to improve my skills in web development and game development.
