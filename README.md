@@ -11,7 +11,7 @@
 
 #### I'm a B.Tech Computer Science student passionate about programming and cloud computing. Currently, I'm focusing to improve my skills in web development and game development.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
 
 <p align="center">
  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
@@ -26,7 +26,7 @@
 </p>
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josethomas45&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&order=2" height="150" alt="languages graph"  />
