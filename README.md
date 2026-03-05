@@ -74,6 +74,6 @@ B.Tech Computer Science student from Kerala, India. I work as a **QA Manual Test
 
 <div align="center">
 
-![Profile Views](https://profile-counter.glitch.me/josethomas45/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=josethomas45&style=flat-square&color=grey&label=profile+views)
 
 </div>
