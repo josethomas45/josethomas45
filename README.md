@@ -8,9 +8,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/josethomas45](https://www.linkedin.com/in/jose-thomas-62696527b/))
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=flat-square&logo=vercel&logoColor=white)]([https://josethomas45.github.io](https://josethomas45.github.io/personal_portfolio/))
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)]([https://instagram.com/josethomas45](https://www.instagram.com/drippy.canvas/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/jose-thomas-62696527b/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=flat-square&logo=vercel&logoColor=white)]((https://josethomas45.github.io/personal_portfolio/))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)]((https://www.instagram.com/drippy.canvas/))
 
 </div>
 
