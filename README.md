@@ -50,7 +50,7 @@ B.Tech Computer Science student from Kerala, India. I work as a **QA Manual Test
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=josethomas45&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=josethomas45&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josethomas45&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="160"/>
 
