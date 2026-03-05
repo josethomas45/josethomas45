@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=60&lines=Jose+Thomas;CS+Student+%26+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=60&lines=Jose+Thomas;CS+Student+%26+Developer;QA+Manual+Tester;Freelance+Artist)](https://git.io/typing-svg)
 
 <br/>
 
@@ -19,7 +19,7 @@
 
 ### About
 
-B.Tech Computer Science student from Kerala, India, passionate about **web development**, **game development**, **cloud computing**, and **ethical hacking**. Currently deepening expertise in full-stack development and cybersecurity fundamentals.
+B.Tech Computer Science student from Kerala, India. I work as a **QA Manual Tester**, create as a **Freelance Artist**, and build as a **developer** — passionate about web development, game development, cloud computing, and ethical hacking. Currently deepening expertise in full-stack development and cybersecurity fundamentals.
 
 ---
 
